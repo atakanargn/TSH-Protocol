@@ -1,0 +1,10 @@
+certifi==2018.1.18
+future==0.16.0
+Pillow==5.1.0
+PyAutoGUI==0.9.36
+PyMsgBox==1.0.6
+PyScreeze==0.1.14
+python-telegram-bot==10.0.1
+PyTweening==1.0.3
+six==1.11.0
+xlib==0.21
