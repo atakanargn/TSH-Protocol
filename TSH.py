@@ -2,7 +2,6 @@
 from telegram.ext import Updater, CommandHandler
 import os
 import pyautogui as pag
-from sys import argv
 
 ### SETTINGS ###
 
